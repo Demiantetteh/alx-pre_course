@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!bin/bash
 The school is open!
+=======
+#!/bin/bash
+The school is now open!
+>>>>>>> f77661d799d452d6dbbd692569602913fbf95930
